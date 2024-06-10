@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# react-tic-tac-toe
+### This is Pet project, try to make tic-tac-toe on react technology
+### Kind of PoC project of Tictactoe using React
+
+### Created 9 empty string in a useState for cell preparation, set index of those as id of each cell.
+
+
+>>>>>>> de05e573fa7d0842921eccf568ae753c541131ca
