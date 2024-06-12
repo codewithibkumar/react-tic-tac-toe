@@ -35,7 +35,7 @@ const App = () => {
   useEffect(()=>
   {
     checkScore()
-    console.log("checking score")
+    
   },[cells])
 
   return (
